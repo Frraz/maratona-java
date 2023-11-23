@@ -5,7 +5,7 @@ import academy.devedojo.maratonajava.javacore.Dconstrutores.dominio.Anime;
 
 public class AnimeTest01 {
     public static void main(String[] args) {
-        Anime anime = new Anime("Haikyu","TV",12,"Ação");
+        Anime anime = new Anime("Haikyu","TV",12,"Ação" , "productig");
         Anime anime2 = new Anime();
         /*anime.init("Akurama Drive","TV",12);
         anime.init2("Akurama Drive","TV",12,"Ação");*/
